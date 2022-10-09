@@ -1,0 +1,80 @@
+[33mcommit 7e1023b0f6233c458549afc1e184e0540ac1f628[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: johnathanMorales <j@nolton.com.co>
+Date:   Thu Oct 6 22:40:33 2022 -0500
+
+    pongo en master la historia 1
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex e5d0815..80d785a 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -1,2 +1 @@[m
+ historia 1[m
+[31m-historia 2[m
+\ No newline at end of file[m
+
+[33mcommit e753deac051c2415a12bbc0ddd2f09e4ab2b2af4[m
+Author: johnathanMorales <j@nolton.com.co>
+Date:   Thu Oct 6 22:36:37 2022 -0500
+
+    agrego segunda historis
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 80d785a..e5d0815 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -1 +1,2 @@[m
+ historia 1[m
+[32m+[m[32mhistoria 2[m
+\ No newline at end of file[m
+
+[33mcommit 50a9f8fc83a0453ec3cf1cad141e5d4a5a614ab4[m
+Author: johnathanMorales <j@nolton.com.co>
+Date:   Thu Oct 6 22:32:08 2022 -0500
+
+    agrego la historia
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..80d785a[m
+[1m--- /dev/null[m
+[1m+++ b/historia.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhistoria 1[m
+
+[33mcommit bb41716332d52959e531a1a7672f31b2558bd55f[m
+Author: johnathanMorales <j@nolton.com.co>
+Date:   Thu Oct 6 22:29:39 2022 -0500
+
+    inicios
+
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a8e0339[m
+[1m--- /dev/null[m
+[1m+++ b/blogpost.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <title>El titulo del post</title>[m
+[32m+[m[32m        <link rel="stylesheet" href="css/estilos.css" />[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Aqui vamos a hacer un blog post</h1>[m
+[32m+[m[32m        <p>Y este es el parrafo de inicio</p>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aa53313[m
+[1m--- /dev/null[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32mbody[m
+[32m+[m[32m{[m
+[32m+[m[32m    color: deeppink;[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m[32m    font-family: "Arial";[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
